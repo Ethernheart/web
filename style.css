@@ -1,0 +1,32 @@
+.Foto
+{
+    display: flex;
+    flex-flow: column;
+}
+
+.footer
+{
+    background-color: rgb(52, 52, 107);
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    left: 0;
+    height: 50px;
+    position: absolute;
+}
+footer
+{
+    display: block;
+}
+article
+{
+width:50%
+}
+body
+{
+    
+   
+    background: linear-gradient(70deg, pink, rgb(48, 121, 255));
+    
+}
+
